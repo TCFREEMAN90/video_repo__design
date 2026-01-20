@@ -8,16 +8,20 @@
 
 ## What This Does
 
-You give it a screenshot of your app. It gives you back a redesigned mockup image with your chosen theme. This image becomes the reference for the next step.
+You give it a screenshot of your app. It gives you back a redesigned mockup 
+image with your chosen theme. This image becomes the reference for the next step.
 
 ---
 
 ## The Prompt
 
 ```
-I've provided a screenshot of an existing application. Please redesign the UI as a visual mock-up image (not a functional app) using a [THEME]-inspired theme that feels [ADJECTIVES].
+I've provided a screenshot of an existing application. Please redesign the UI as a
+visual mock-up image (not a functional app) using a [THEME]-inspired theme that feels [ADJECTIVES].
 
-The redesign should preserve the structure and usability of a real application—avoid purely decorative effects or excessive gradients. Focus on re-theming and visual expression while keeping it realistic and usable.
+The redesign should preserve the structure and usability of a real application—avoid
+purely decorative effects or excessive gradients. Focus on re-theming and visual
+expression while keeping it realistic and usable.
 ```
 
 ---
@@ -36,9 +40,13 @@ Replace the bracketed sections:
 ## Example: Flowers Theme
 
 ```
-I've provided a screenshot of an existing application. Please redesign the UI as a visual mock-up image (not a functional app) using a flowers-inspired theme that feels open, creative, lightweight, colorful, and enjoyable.
+I've provided a screenshot of an existing application. Please redesign the UI
+as a visual mock-up image (not a functional app) using a flowers-inspired
+theme that feels open, creative, lightweight, colorful, and enjoyable.
 
-The redesign should preserve the structure and usability of a real application—avoid purely decorative effects or excessive gradients. Focus on re-theming and visual expression while keeping it realistic and usable.
+The redesign should preserve the structure and usability of a real
+application—avoid purely decorative effects or excessive gradients.
+Focus on re-theming and visual expression while keeping it realistic and usable.
 ```
 
 ---
@@ -46,9 +54,13 @@ The redesign should preserve the structure and usability of a real application�
 ## Example: Space Theme
 
 ```
-I've provided a screenshot of an existing application. Please redesign the UI as a visual mock-up image (not a functional app) using a space-inspired theme that feels expansive, dark, mysterious, and futuristic.
+I've provided a screenshot of an existing application. Please redesign the UI
+as a visual mock-up image (not a functional app) using a space-inspired theme
+that feels expansive, dark, mysterious, and futuristic.
 
-The redesign should preserve the structure and usability of a real application—avoid purely decorative effects or excessive gradients. Focus on re-theming and visual expression while keeping it realistic and usable.
+The redesign should preserve the structure and usability of a real application—avoid
+purely decorative effects or excessive gradients. Focus on re-theming and visual
+expression while keeping it realistic and usable.
 ```
 
 ---
