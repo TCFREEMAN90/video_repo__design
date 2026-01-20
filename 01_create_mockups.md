@@ -8,8 +8,8 @@
 
 ## What This Does
 
-You give it a screenshot of your app. It gives you back a redesigned mockup 
-image with your chosen theme. This image becomes the reference for the next step.
+You give it a screenshot of your app. It gives you back a redesigned mockup image
+with your chosen theme. This image becomes the reference for the next step.
 
 ---
 
@@ -67,13 +67,16 @@ expression while keeping it realistic and usable.
 
 ## Tips
 
-- **Too many graphics?** Tell it: "Less imagery, focus on the color and typography theme"
+- **Too many graphics?** Tell it: "Less imagery, focus on the color and typography
+  theme"
 - **Want options?** Ask for 2-3 variations
 - **Just one section?** Screenshot only that part of your app
-- **Extract assets?** ChatGPT is good at generating transparent PNGs if you want to pull out elements later
+- **Extract assets?** ChatGPT is good at generating transparent PNGs if you want to
+  pull out elements later
 
 ---
 
 ## Next Step
 
-Once you have a mockup you like, go to **[Prompt 2: Redesign from Mockup](02_redesign_from_mockup.md)** to apply it to your actual app.
+Once you have a mockup you like, go to **[Prompt 2: Redesign from
+Mockup](02_redesign_from_mockup.md)** to apply it to your actual app.
