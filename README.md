@@ -33,5 +33,5 @@ Interactive reference for design vocabulary (contrast, hierarchy, spacing, color
 
 ## Links
 
-- Video: [YouTube link TBD]
-- Channel: [Your channel]
+- Video: [AI Gave You Coding. Now It Gives You Design.](https://youtu.be/nrkXWb-ani0)
+- Channel: [Metal Sole](https://www.youtube.com/@metalsole)
