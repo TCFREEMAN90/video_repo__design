@@ -27,7 +27,7 @@ Prompts from the video **"AI Gave You Coding. Now It Gives You Design."**
 
 Interactive reference for design vocabulary (contrast, hierarchy, spacing, color, depth):
 
-**[URL TBD]**
+**[Design Fundamentals](https://design-fundamentals-eight.vercel.app/)**
 
 ---
 
